@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{92F0DE1E-4FDB-799C-F716-3390082668B5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AIE_UE4IntroTutorial",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
