@@ -1,4 +1,4 @@
-# Double Jump
+# Button Press (Interaction)
 Push a button, make it do something!
 
 In this portion we will need to make something happen when the player jumps on this huge button.

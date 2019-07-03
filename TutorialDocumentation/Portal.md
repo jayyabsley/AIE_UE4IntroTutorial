@@ -1,4 +1,4 @@
-# Double Jump
+# Portal (Player Movement and Collision)
 You have not yet noticed we have a whole other room with an exit portal on the other side. At the moment the portals are just aesthetic and have no functionality.
 
 We will want to detect when the player touches the portal and teleport them to the other room

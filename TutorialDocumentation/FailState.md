@@ -1,4 +1,4 @@
-# Double Jump
+# Death (Fail State)
 Whats a game without a way to restart?!
 Here we will need to implement a way to detect that the player has gone where they should not go and move them away.
 These are things we have covered previously, let re-apply those skills

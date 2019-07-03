@@ -1,4 +1,4 @@
-# Double Jump
+# Bridge Beneath The Fog (Object Movement)
 The bridge to bring us home!
 
 This bridge will require to be implemented at the same time as the button to take full effect!

@@ -1,4 +1,4 @@
-# Double Jump
+# Double Jump (Player Movement)
 At this point you will want to implement some sort of way of getting across.
 A double jump machanic will be perfect for this!
 
